@@ -1,4 +1,3 @@
-# LyricalEvolutionofPopMusic
 # Lyrical Evolution: A Quantitative Analysis of Pop Music
 
 **Student ID:** WILJEN0825
